@@ -1,4 +1,4 @@
-# CheckpointGraph
+# ProvenanceOrbit
 
 SourceDossier is a GenLayer Studionet application for resolving factual claims against two independently fetched HTTPS sources. Validators fetch both URLs themselves, require distinct hostnames, bind SHA-256 digests of the exact response bodies, agree on one evidence code per source, and store a structured verdict with its provenance.
 
@@ -22,3 +22,4 @@ Contract source: `contracts/source_dossier.py`. Tests cover URL and hostname rul
 - Live test transaction: `0x88050c8224cc733037b5c1c9012214642c0bfc78b68dfc6a7b2ce21bf2ae1887`
 
 No private keys or secrets are stored in this repository.
+
